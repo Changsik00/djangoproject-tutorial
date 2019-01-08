@@ -1,2 +1,6 @@
 
 myvenv/*
+
+*.vscode/
+*.DS_Store
+
